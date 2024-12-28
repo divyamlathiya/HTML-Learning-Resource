@@ -1,4 +1,4 @@
-# HTML Learning Resource
+# HTML Resource
 
 Welcome to the **HTML Learning Resource** repository! This repository contains all the code and resources from an HTML course I completed on YouTube. It includes practice sets, exercises, projects, and various HTML concepts covered throughout the course.
 
