@@ -155,3 +155,5 @@ Contributions are welcome! If you'd like to contribute to this repository, feel 
 Thank you for visiting the **HTML Learning Resource** repository! Whether you're a beginner just getting started with HTML or you're looking to reinforce your skills, this repository provides a solid foundation to help you learn and practice HTML effectively.
 
 Happy learning and coding! 👨‍💻👩‍💻
+---
+Author - **Divyam Lathiya**
