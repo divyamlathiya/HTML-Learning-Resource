@@ -21,10 +21,10 @@ Welcome to the **HTML Learning Resource** repository! This repository contains a
 
 This course covers the following topics:
 
-- **Chapter 1**: Basic HTML Structure, Introduction to Tags, and Formatting.
-- **Chapter 2**: Advanced Formatting, Text Modifiers, Links, and Images.
-- **Chapter 3**: Contact Forms, Page Layouts, and Images.
-- **Chapter 4**: HTML Forms, Lists, and Tables.
+- **Chapter 1**: Basic HTML `Structure`, **Introduction** to `Tags`, and `Formatting`.
+- **Chapter 2**: **Advanced** `Formattin`g, Text `Modifiers`, `Links`, and `Images`.
+- **Chapter 3**: `Contact Forms`, `Page Layouts`, and Images.
+- **Chapter 4**: HTML `Forms`, `Lists`, and `Tables`.
 - **Chapter 5**: Miscellaneous HTML Topics.
 - **HTML Notes**: PDFs and reference materials for quick review.
 - **Project 1**: Full HTML Project demonstrating skills learned in previous chapters.
@@ -105,50 +105,6 @@ HTML-learning-resource/
 
 ---
 
-## How to Use
-
-**1. Clone the Repository**
-
-Clone the repository to your local machine using Git:
-
-```bash
-git clone https://github.com/divyamlathiya/HTML-learning-resource.git
-```
-
-**2. Download ZIP**
-
-If you prefer not to use Git, you can download the repository as a ZIP file from GitHub.
-
-**3. Open and Explore**
-
-Navigate to the relevant chapter folder and open the `index.html` files in your web browser to view the examples in action.
-
-For example, to view the basics of HTML, open `ch-1/index.html` in your browser.
-
-**4. Learn and Practice**
-
-Each folder is structured with HTML examples and practice sets. Modify the files, try out different tags, and experiment with the code to deepen your understanding of HTML.
-
-**5. Use the PDFs and Notes**
-
-In addition to the code, there are PDF files available in various folders that contain further explanations, references, and additional reading materials. Check the `pdfs/` folders for more details.
-
----
-
-## Prerequisites
-No prior HTML knowledge is required. However, a basic understanding of using a text editor and web browser will help. The course is designed for complete beginners, and all concepts are explained in detail.
-
-- **Text Editor**: Visual Studio Code, Sublime Text, or any code editor.
-- **Web Browser**: Chrome, or any modern web browser.
-
----
-
-## Contributing
-Contributions are welcome! If you'd like to contribute to this repository, feel free to fork it and submit a pull request with your improvements or additional examples. Here are some ways you can help:
-
-- Fixing typos or errors in the code.
-- Adding new examples or exercises.
-- Improving the documentation.
 
 ## License
 This project is open-source and available under the MIT License.
