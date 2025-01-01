@@ -107,7 +107,8 @@ HTML-learning-resource/
 
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License [MIT License](LICENSE).
+
 
 ## Conclusion
 
